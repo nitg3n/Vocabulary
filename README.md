@@ -1,7 +1,7 @@
 # Vocabulary
-### The Simple Vocabulary Program.
-### This program is made for my Python learning, so I didn't care about UI.
-### This program is made by Zeetheer.
+### A Simple Vocabulary Program.
+### This is a project for my Python learning.
+### Made by nitg3n(Zeetheer, Snap_Lan)
 
 # Update Note
 ### Now you can export words with txt files.
